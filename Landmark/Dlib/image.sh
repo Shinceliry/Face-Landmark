@@ -1,0 +1,1 @@
+python Dlib_image.py --image /path/to/image --detector /path/to/mmod_human_face_detector.dat --shape_predictor /path/to/shape_predictor_68_face_landmarks.dat --output /path/to/result_directory/image_name.jpg --resolution 300 300

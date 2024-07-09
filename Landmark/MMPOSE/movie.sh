@@ -1,0 +1,1 @@
+python mmpz_movie.py --video /path/to/video.mp4 --output /path/to/result_directory --fps 30

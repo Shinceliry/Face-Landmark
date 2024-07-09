@@ -1,0 +1,1 @@
+python mdpip_image.py --image /path/to/image.jpg --output /path/to/result_directory/image_name.jpg --resolution 300 300

@@ -1,0 +1,1 @@
+python mdpip_movie.py --video /path/to/movie --output /path/to/result_directory/image_name.mp4 --fps 30

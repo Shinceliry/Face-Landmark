@@ -1,0 +1,1 @@
+python mmpz_image.py --image /path/to/image.jpg --output /path/to/result_directory --resolution 300 300

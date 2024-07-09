@@ -1,0 +1,1 @@
+python FaceAlignment_movie.py --video /path/to/movie --device cuda --output /path/to/result_directory/image_name.mp4 --fps 30
